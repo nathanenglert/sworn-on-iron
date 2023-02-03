@@ -12,19 +12,19 @@
   "shortcutFiles": [
     {
       "enabled": true,
-      "address": "Support/inlineScripts/starforged_moves.sfile.md"
+      "address": "Support/inlineScripts/ironsworn_moves.sfile.md"
     },
     {
       "enabled": true,
-      "address": "Support/inlineScripts/starforged_oracles.sfile.md"
+      "address": "Support/inlineScripts/ironsworn_oracles.sfile.md"
     },
     {
       "enabled": true,
-      "address": "Support/inlineScripts/starforged_stats.sfile.md"
+      "address": "Support/inlineScripts/ironsworn_stats.sfile.md"
     },
     {
       "enabled": true,
-      "address": "Support/inlineScripts/starforged_progress.sfile.md"
+      "address": "Support/inlineScripts/ironsworn_progress.sfile.md"
     },
     {
       "enabled": true,

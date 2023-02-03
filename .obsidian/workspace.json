@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Truths_Template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Truths_Template.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Truths_Template.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Truths_Template.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "10e320b4266eb0a9",
   "lastOpenFiles": [
+    "Templates/Truths_Template.md",
     "Templates/Progress_Template.md",
     "Templates/Oracle_Template.md",
     "Templates/Moves_Template.md",
@@ -165,7 +166,6 @@
     "Templates/Asset_Template.md",
     "README.md",
     "Oracles/Characters/Characters_Family_Name.md",
-    "Oracles/Characters/Characters_Callsign.md",
-    "Oracles/Ask_the_Oracle/Ask_the_Oracle_Almost_Certain.md"
+    "Oracles/Characters/Characters_Callsign.md"
   ]
 }
