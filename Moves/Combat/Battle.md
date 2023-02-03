@@ -8,6 +8,6 @@ When **you fight a battle**, and it happens in a blur, envision your objective a
 
 On a **strong hit**, you achieve your objective unconditionally. Take +2 momentum. 
 
-On a **weak hit**, you achieve your objective, but not without cost. [[Pay the Price]]. 
+On a **weak hit**, you achieve your objective, but not without cost. [[Pay_the_Price]]. 
 
-On a **miss**, you are defeated and the objective is lost to you. [[Pay the Price]].
+On a **miss**, you are defeated and the objective is lost to you. [[Pay_the_Price]].

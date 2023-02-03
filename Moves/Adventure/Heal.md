@@ -4,4 +4,4 @@ On a **strong hit**, your care is helpful. If you (or the ally under your care) 
 
 On a **weak hit**, as above, but you must suffer -1 supply or -1 momentum (your choice). 
 
-On a **miss**, your aid is ineffective. [[Pay the Price]].
+On a **miss**, your aid is ineffective. [[Pay_the_Price]].

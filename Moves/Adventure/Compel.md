@@ -3,8 +3,8 @@ When **you attempt to persuade someone to do something**, envision your approach
 - Threaten or incite: Roll +iron. 
 - Lie or swindle: Roll +shadow. 
 
-On a **strong hit**, they’ll do what you want or share what they know. Take +1 momentum. If you use this exchange to [[Gather Information]], make that move now and add +1. 
+On a **strong hit**, they’ll do what you want or share what they know. Take +1 momentum. If you use this exchange to [[Gather_Information]], make that move now and add +1. 
 
-On a **weak hit**, as above, but they ask something of you in return. Envision what they want ([[Ask the Oracle]] if unsure). 
+On a **weak hit**, as above, but they ask something of you in return. Envision what they want ([[Ask_the_Oracle]] if unsure). 
 
-On a **miss**, they refuse or make a demand which costs you greatly. [[Pay the Price]].
+On a **miss**, they refuse or make a demand which costs you greatly. [[Pay_the_Price]].

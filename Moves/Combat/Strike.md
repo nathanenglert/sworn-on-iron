@@ -4,4 +4,4 @@ On a **strong hit**, inflict +1 harm. You retain initiative.
 
 On a **weak hit**, inflict your harm and lose initiative. 
 
-On a **miss**, your attack fails and you must [[Pay the Price]]. Your foe has initiative.
+On a **miss**, your attack fails and you must [[Pay_the_Price]]. Your foe has initiative.

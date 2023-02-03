@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f50c4bff5eeb0b0b",
+        "id": "71d47c493840b43e",
         "type": "tabs",
         "children": [
           {
-            "id": "10e320b4266eb0a9",
+            "id": "dd595ae326ee0df3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Support/inlineScripts/ironsworn_moves.sfile.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Support/inlineScripts/ironsworn_moves.sfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Support/inlineScripts/ironsworn_moves.sfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Support/inlineScripts/ironsworn_moves.sfile.md"
               }
             }
           },
@@ -155,17 +155,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10e320b4266eb0a9",
+  "active": "dd595ae326ee0df3",
   "lastOpenFiles": [
-    "Templates/Truths_Template.md",
-    "Templates/Progress_Template.md",
-    "Templates/Oracle_Template.md",
-    "Templates/Moves_Template.md",
-    "Templates/Clocks_Template.md",
-    "Templates/Character_Template.md",
-    "Templates/Asset_Template.md",
-    "README.md",
-    "Oracles/Characters/Characters_Family_Name.md",
-    "Oracles/Characters/Characters_Callsign.md"
+    "Support/inlineScripts/ironsworn_oracles.sfile.md",
+    "Moves/Suffer/Out_of_Supply.md",
+    "Moves/Suffer/Face_Desolation.md",
+    "Moves/Suffer/Face_Death.md",
+    "Moves/Suffer/Endure_Stress.md",
+    "Moves/Suffer/Face_a_Setback.md",
+    "Moves/Suffer/Endure_Harm.md",
+    "Moves/Suffer/Companion_Endure_Harm.md",
+    "Moves/Relationship/Write_Your_Epilogue.md",
+    "Moves/Relationship/Test_Your_Bond.md"
   ]
 }

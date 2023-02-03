@@ -13,7 +13,7 @@ You can't remember what happens on a miss, so you pull up the move as a referenc
 ;;moveref gi
 
 > [!mechanics]- Gather Information
-> ![[Gather Information]]
+> ![[Gather_Information]]
 
 Ah, you need to pay the price.
 
@@ -23,4 +23,3 @@ Ah, you need to pay the price.
 > **Result:** You are harmed
 > 
 > Additional Details: 
-

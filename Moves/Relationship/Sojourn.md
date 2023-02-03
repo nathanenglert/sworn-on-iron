@@ -16,6 +16,6 @@ On a hit, you and your allies may each focus on one of your chosen recover actio
 - Plan: Take +2 momentum. 
 
 ### Provide Aid 
-- Take a quest: Envision what this community needs, or what trouble it is facing ([[Ask the Oracle]] if unsure). If you chose to help, [[Swear an Iron Vow]] and add +1. 
+- Take a quest: Envision what this community needs, or what trouble it is facing ([[Ask_the_Oracle]] if unsure). If you chose to help, [[Swear_an_Iron_Vow]] and add +1. 
 
-On a **miss**, you find no help here. [[Pay the Price]].
+On a **miss**, you find no help here. [[Pay_the_Price]].
