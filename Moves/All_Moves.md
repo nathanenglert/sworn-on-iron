@@ -127,8 +127,8 @@ When you encounter content flagged as something to approach mindfully, pause to 
 
 **When you end a significant session or chapter of play**, reflect on the events of the game and identify any missed opportunities to mark progress.
 
-  * If you strengthened your ties to a connection, [Develop Your Relationship](Moves/Connection/Develop_Your_Relationship).
-  * If you moved forward on a quest, [Reach a Milestone](Moves/Quest/Reach_a_Milestone).
+  * If you strengthened your ties to a connection, [Develop Your Relationship](Develop_Your_Relationship.md).
+  * If you moved forward on a quest, [Reach a Milestone](Reach%20a%20Milestone.md).
 
 If there is a quest, connection, or other situation you would like to give focus in your next session, make note of it and take +1 momentum.
 
@@ -150,7 +150,7 @@ On a **strong hit**, you are successful. Take +1 momentum.
 
 On a **weak hit**, you succeed, but not without a cost. Make a [suffer move](#Suffer-Moves) (-1).
 
-On a **miss**, you fail, or a momentary success is undermined by a dire turn of events. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you fail, or a momentary success is undermined by a dire turn of events. [Pay the Price](Pay%20the%20Price.md).
 
 ### Secure an Advantage
 
@@ -167,7 +167,7 @@ On a **hit**, you succeed. On a **strong hit**, take both. On a **weak hit**, ch
   * Take +2 momentum
   * Add +1 on your next move (not a progress move)
 
-On a **miss**, you fail or your assumptions betray you. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you fail or your assumptions betray you. [Pay the Price](Pay%20the%20Price.md).
 
 ### Gather Information
 
@@ -177,7 +177,7 @@ On a **strong hit**, you discover something helpful and specific. The path you m
 
 On a **weak hit**, the information provides new insight, but also complicates your quest. Envision what you discover. Then, take +1 momentum.
 
-On a **miss**, your investigation unearths a dire threat or reveals an unwelcome truth that undermines your quest. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, your investigation unearths a dire threat or reveals an unwelcome truth that undermines your quest. [Pay the Price](Pay%20the%20Price.md).
 
 ### Compel
 
@@ -191,11 +191,11 @@ On a **strong hit**, they'll do what you want or agree to your conditions. Take 
 
 On a **weak hit**, as above, but their agreement comes with a demand or complication. Envision their counteroffer.
 
-On a **miss**, they refuse or make a demand that costs you greatly. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, they refuse or make a demand that costs you greatly. [Pay the Price](Pay%20the%20Price.md).
 
 ### Aid Your Ally
 
-**When you act in direct support of an ally**, envision how you aid them. Then, [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) or [Gain Ground](Moves/Combat/Gain_Ground) to take action. If you score a hit, they (instead of you) take the benefits of the move.
+**When you act in direct support of an ally**, envision how you aid them. Then, [Secure an Advantage](Secure%20an%20Advantage.md) or [Gain Ground](Moves/Combat/Gain_Ground) to take action. If you score a hit, they (instead of you) take the benefits of the move.
 
 If you [Gain Ground](Moves/Combat/Gain_Ground) and score a strong hit, you are both in control. On a **weak hit**, your ally is in control but you are in a bad spot.
 
@@ -210,7 +210,7 @@ On a **weak hit**, you have it, but must choose one.
   * Your supply is diminished: [Sacrifice Resources](Moves/Suffer/Sacrifice_Resources) (-1)
   * It's not quite right, and causes a complication or delay: [Lose Momentum](Moves/Suffer/Lose_Momentum) (-2)
 
-On a **miss**, you don't have it and the situation grows more perilous. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you don't have it and the situation grows more perilous. [Pay the Price](Pay%20the%20Price.md).
 
 ## Quest Moves
 
@@ -249,11 +249,11 @@ On a **miss**, you must overcome a significant obstacle before you begin your qu
 
 On a **strong hit**, your vow is fulfilled. Mark a reward on your quests legacy track per the vow's rank: troublesome=1 tick; dangerous=2 ticks; formidable=1 box; extreme=2 boxes; epic=3 boxes. Any allies who shared this vow also mark the reward.
 
-On a **weak hit**, as above, but there is more to be done or you realize the truth of your quest. If you [Swear an Iron Vow](Moves/Quest/Swear_an_Iron_Vow) to set things right, take your full legacy reward. Otherwise, make the reward one rank lower.
+On a **weak hit**, as above, but there is more to be done or you realize the truth of your quest. If you [Swear an Iron Vow](Swear%20an%20Iron%20Vow.md) to set things right, take your full legacy reward. Otherwise, make the reward one rank lower.
 
 On a **miss**, your vow is undone through an unexpected complication or realization. Envision what happens and choose one.
 
-  * Give up on the quest: [Forsake Your Vow](Moves/Quest/Forsake_Your_Vow).
+  * Give up on the quest: [Forsake Your Vow](Forsake%20Your%20Vow.md).
   * Recommit to the quest: Roll both challenge dice, take the lowest value, and clear that number of progress boxes. Then, raise the vow's rank by one (if not already epic).
 
 ### Forsake Your Vow
@@ -262,8 +262,8 @@ On a **miss**, your vow is undone through an unexpected complication or realizat
 
 Then, envision the impact of this failure and choose one or more as appropriate to the nature of the vow. Any allies who shared this vow may also envision a cost.
 
-  * You are demoralized or dispirited: [Endure Stress](Moves/Suffer/Endure_Stress).
-  * A connection loses faith: [Test Your Relationship](Moves/Connection/Test_Your_Relationship) when you next interact.
+  * You are demoralized or dispirited: [Endure Stress](Endure%20Stress.md).
+  * A connection loses faith: [Test Your Relationship](Test%20Your%20Bond.md) when you next interact.
   * You must abandon a path or resource: Discard an asset.
   * Someone else pays a price: Envision how a person, being, or community bears the cost of the failure.
   * Someone else takes advantage: Envision how an enemy gains power.
@@ -283,7 +283,7 @@ On a **strong hit**, you create a connection. Give them a role and rank. Wheneve
 
 On a **weak hit**, as above, but this connection comes with a complication or cost. Envision what they reveal or demand.
 
-On a **miss**, you don't make a connection and the situation worsens. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you don't make a connection and the situation worsens. [Pay the Price](Pay%20the%20Price.md).
 
 ### Develop Your Relationship
 
@@ -305,14 +305,14 @@ If you already share a bond with the connection, do not mark progress. Instead, 
 
 **When your relationship with a connection is tested through conflict, betrayal, or circumstance**, roll +heart. If you share a bond, add +1.
 
-On a **strong hit**, [Develop Your Relationship](Moves/Connection/Develop_Your_Relationship).
+On a **strong hit**, [Develop Your Relationship](Develop_Your_Relationship.md).
 
-On a **weak hit**, [Develop Your Relationship](Moves/Connection/Develop_Your_Relationship), but also envision a demand or complication as a fallout of this test.
+On a **weak hit**, [Develop Your Relationship](Develop_Your_Relationship.md), but also envision a demand or complication as a fallout of this test.
 
 On a **miss**, or if you have no interest in maintaining this relationship, choose one.
 
-  * Lose the connection: Envision how this impacts you and [Pay the Price](Moves/Fate/Pay_the_Price).
-  * Prove your loyalty: Envision what you offer or what they demand, and [Swear an Iron Vow](Moves/Quest/Swear_an_Iron_Vow) (formidable or greater) to see it done. Until you complete the quest, take no benefit for the connection. If you refuse or fail the quest, the connection is permanently undone.
+  * Lose the connection: Envision how this impacts you and [Pay the Price](Pay%20the%20Price.md).
+  * Prove your loyalty: Envision what you offer or what they demand, and [Swear an Iron Vow](Swear%20an%20Iron%20Vow.md) (formidable or greater) to see it done. Until you complete the quest, take no benefit for the connection. If you refuse or fail the quest, the connection is permanently undone.
 
 ### Forge a Bond
 
@@ -325,7 +325,7 @@ On a **strong hit**, you now share a bond. Mark a reward on your bonds legacy tr
   * Bolster their influence: When they aid you on a move closely associated with their role, add +2 instead of +1.
   * Expand their influence: Give them a second role. When they aid you on a move closely associated with either role, add +1 and take +1 momentum on a hit.
 
-On a **weak hit**, as above, but they ask something more of you first. To gain the bond and the legacy reward, envision the nature of the request, and do it (or [Swear an Iron Vow](Moves/Quest/Swear_an_Iron_Vow) to see it done).
+On a **weak hit**, as above, but they ask something more of you first. To gain the bond and the legacy reward, envision the nature of the request, and do it (or [Swear an Iron Vow](Swear%20an%20Iron%20Vow.md) to see it done).
 
 On a **miss**, they reveal a motivation or background that puts you at odds. If you recommit to this relationship, roll both challenge dice, take the lowest value, and clear that number of progress boxes. Then, raise the connection's rank by one (if not already epic).
 
@@ -350,7 +350,7 @@ On a **weak hit**, as above, but this progress costs you. Choose one.
   * Suffer costs en route: Make a [suffer move](#Suffer-Moves) (-2), or two [suffer moves](#Suffer-Moves) (-1).
   * Face a peril at the waypoint: Envision what you encounter.
 
-On a **miss**, you are waylaid by a crisis, or arrive at a waypoint to confront an immediate hardship or threat. Do not mark progress, and [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you are waylaid by a crisis, or arrive at a waypoint to confront an immediate hardship or threat. Do not mark progress, and [Pay the Price](Pay%20the%20Price.md).
 
 ### Explore a Waypoint
 
@@ -363,7 +363,7 @@ On a **strong hit**, choose one. On a **strong hit with a match**, you may inste
 
 On a **weak hit**, you uncover something interesting, but it is bound up in a peril or reveals an ominous aspect of this place. Envision what you encounter. Then, take +1 momentum.
 
-On a **miss**, you encounter an immediate hardship or threat, and must [Pay the Price](Moves/Fate/Pay_the_Price). On a **miss with a match**, you may instead [Confront Chaos](Moves/Exploration/Confront_Chaos).
+On a **miss**, you encounter an immediate hardship or threat, and must [Pay the Price](Pay%20the%20Price.md). On a **miss with a match**, you may instead [Confront Chaos](Moves/Exploration/Confront_Chaos).
 
 ### Make a Discovery
 
@@ -439,7 +439,7 @@ On a **weak hit**, as above, but you face an unforeseen complication at the end 
 
 On a **miss**, your destination is lost to you, or you come to understand the true nature or cost of the expedition. Envision what happens and choose one.
 
-  * Abandon the expedition: Envision the cost of this setback and [Pay the Price](Moves/Fate/Pay_the_Price).
+  * Abandon the expedition: Envision the cost of this setback and [Pay the Price](Pay%20the%20Price.md).
   * Return to the expedition: Roll both challenge dice, take the lowest value, and clear that number of progress boxes. Then, raise the expedition's rank by one (if not already epic).
 
 ### Set a Course
@@ -453,7 +453,7 @@ On a **weak hit**, you arrive, but face a cost or complication. Choose one.
   * Suffer costs en route: Make a [suffer move](#Suffer-Moves) (-2), or two [suffer moves](#Suffer-Moves) (-1).
   * Face a complication at the destination: Envision what you encounter.
 
-On a **miss**, you are waylaid by a significant threat, and must [Pay the Price](Moves/Fate/Pay_the_Price). If you overcome this obstacle, you may push on safely to your destination.
+On a **miss**, you are waylaid by a significant threat, and must [Pay the Price](Pay%20the%20Price.md). If you overcome this obstacle, you may push on safely to your destination.
 
 ## Combat Moves
 
@@ -496,7 +496,7 @@ On a **hit**, you stay in control. On a **strong hit**, choose two. On a **weak 
   * Take +2 momentum
   * Add +1 on your next move (not a progress move)
 
-On a **miss**, your foe gains the upper hand, the fight moves to a new location, or you encounter a new peril. You are in a bad spot and must [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, your foe gains the upper hand, the fight moves to a new location, or you encounter a new peril. You are in a bad spot and must [Pay the Price](Pay%20the%20Price.md).
 
 ### React Under Fire
 
@@ -512,7 +512,7 @@ On a **strong hit**, you succeed and are in control. Take +1 momentum.
 
 On a **weak hit**, you avoid the worst of the danger or overcome the obstacle, but not without a cost. Make a [suffer move](#Suffer-Moves) (-1). You stay in a bad spot.
 
-On a **miss**, the situation worsens. You stay in a bad spot and must [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, the situation worsens. You stay in a bad spot and must [Pay the Price](Pay%20the%20Price.md).
 
 ### Strike
 
@@ -522,7 +522,7 @@ On a **strong hit**, mark progress twice. You dominate your foe and stay in cont
 
 On a **weak hit**, mark progress twice, but you expose yourself to danger. You are in a bad spot.
 
-On a **miss**, the fight turns against you. You are in a bad spot and must [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, the fight turns against you. You are in a bad spot and must [Pay the Price](Pay%20the%20Price.md).
 
 ### Clash
 
@@ -530,9 +530,9 @@ On a **miss**, the fight turns against you. You are in a bad spot and must [Pay 
 
 On a **strong hit**, mark progress twice. You overwhelm your foe and are in control.
 
-On a **weak hit**, mark progress, but you are dealt a counterblow or setback. You stay in a bad spot and must [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **weak hit**, mark progress, but you are dealt a counterblow or setback. You stay in a bad spot and must [Pay the Price](Pay%20the%20Price.md).
 
-On a **miss**, your foe dominates this exchange. You stay in a bad spot and must [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, your foe dominates this exchange. You stay in a bad spot and must [Pay the Price](Pay%20the%20Price.md).
 
 ### Take Decisive Action
 
@@ -555,11 +555,11 @@ Roll   | Result
 77-88  | Others won’t forget: You are marked for vengeance
 89-100 | It gets complicated: The true nature of a foe or objective is revealed
 
-On a **miss**, you are defeated or your objective is lost. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you are defeated or your objective is lost. [Pay the Price](Pay%20the%20Price.md).
 
 ### Face Defeat
 
-**When you abandon or are deprived of an objective**, envision the consequence of this failure, clear the objective, and [Pay the Price](Moves/Fate/Pay_the_Price).
+**When you abandon or are deprived of an objective**, envision the consequence of this failure, clear the objective, and [Pay the Price](Pay%20the%20Price.md).
 
 If the fight continues, you may create a new objective and give it a rank to represent the changing situation. If any objectives remain, the fight continues and you are in a bad spot.
 
@@ -575,13 +575,13 @@ If the fight continues, you may create a new objective and give it a rank to rep
 
 On a **strong hit**, you achieve your objective unconditionally. You and any allies who joined the battle may take +2 momentum.
 
-On a **weak hit**, you achieve your objective, but not without cost. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **weak hit**, you achieve your objective, but not without cost. [Pay the Price](Pay%20the%20Price.md).
 
-On a **miss**, you are defeated or the objective is lost. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you are defeated or the objective is lost. [Pay the Price](Pay%20the%20Price.md).
 
 ## Suffer Moves
 
-When you bear the brunt of a failed action or make a concession, the suffer moves help resolve the cost. These moves are typically made when you must [Pay the Price](Moves/Fate/Pay_the_Price) and face a hardship that directly impacts your well-being and readiness, or as prompted by a move or asset.
+When you bear the brunt of a failed action or make a concession, the suffer moves help resolve the cost. These moves are typically made when you must [Pay the Price](Pay%20the%20Price.md) and face a hardship that directly impacts your well-being and readiness, or as prompted by a move or asset.
 
 ### Lose Momentum
 
@@ -609,9 +609,9 @@ On a **miss**, it’s worse than you thought. Suffer an additional -1 health or 
 
 Roll   | Result
 -------|---------
-1-10   | You suffer mortal harm. [Face Death](Moves/Threshold/Face_Death).
-11-20  | You are dying. Within an hour or two, you must [Heal](Moves/Recover/Heal) and raise your health above 0, or [Face Death](Moves/Threshold/Face_Death).
-21-35  | You are unconscious and out of action. If left alone, you come back to your senses in an hour or two. If you are vulnerable to ongoing harm, [Face Death](Moves/Threshold/Face_Death).
+1-10   | You suffer mortal harm. [Face Death](Face%20Death.md).
+11-20  | You are dying. Within an hour or two, you must [Heal](Heal.md) and raise your health above 0, or [Face Death](Face%20Death.md).
+21-35  | You are unconscious and out of action. If left alone, you come back to your senses in an hour or two. If you are vulnerable to ongoing harm, [Face Death](Face%20Death.md).
 36-50  | You are reeling. If you engage in any vigorous activity before taking a breather, roll on this table again (before resolving the other move).
 51-100 | You are still standing.
 
@@ -632,8 +632,8 @@ On a **miss**, it's worse than you thought. Suffer an additional -1 spirit or [L
 
 Roll   | Result
 -------|--------------------------------------------------------------------------
-1-10   | You are overwhelmed. [Face Desolation](Moves/Threshold/Face_Desolation).
-11-25  | You give up. [Forsake Your Vow](Moves/Quest/Forsake_Your_Vow).
+1-10   | You are overwhelmed. [Face Desolation](Face%20Desolation.md).
+11-25  | You give up. [Forsake Your Vow](Forsake%20Your%20Vow.md).
 26-50  | You give in to fear or compulsion, and act against your better instincts.
 51-100 | You persevere.
 
@@ -676,12 +676,12 @@ On a **miss**, it’s worse than you thought. Suffer an additional -1 integrity 
 
 Roll   | Result
 -------|-------------------
-1-10   | Immediate catastrophic destruction. All aboard must [Endure Harm](Moves/Suffer/Endure_Harm) or [Face Death](Moves/Threshold/Face_Death), as appropriate.
-11-25  | Destruction is imminent and unavoidable. If you do not have the means or intention to get clear, [Endure Harm](Moves/Suffer/Endure_Harm) or [Face Death](Moves/Threshold/Face_Death), as appropriate.
+1-10   | Immediate catastrophic destruction. All aboard must [Endure Harm](Endure%20Harm.md) or [Face Death](Face%20Death.md), as appropriate.
+11-25  | Destruction is imminent and unavoidable. If you do not have the means or intention to get clear, [Endure Harm](Endure%20Harm.md) or [Face Death](Face%20Death.md), as appropriate.
 26-40  | Destruction is imminent, but can be averted if you [Repair](Moves/Recover/Repair) your vehicle and raise its integrity above 0. If you fail, see 11-25.
-41-55  | You cannot [Repair](Moves/Recover/Repair) this vehicle until you [Resupply](Moves/Recover/Resupply) and obtain a crucial replacement part. If you roll this result again prior to that, see 11-25.
+41-55  | You cannot [Repair](Moves/Recover/Repair) this vehicle until you [Resupply](Resupply.md) and obtain a crucial replacement part. If you roll this result again prior to that, see 11-25.
 56-70  | The vehicle is crippled or out of your control. To get it back in action, you must [Repair](Moves/Recover/Repair) and raise its integrity above 0.
-71-85  | It’s a rough ride. All aboard must make the [Endure Harm](Moves/Suffer/Endure_Harm), [Endure Stress](Moves/Suffer/Endure_Stress), or [Companion Takes a Hit](Moves/Suffer/Companion_Takes_a_Hit) move, suffering a serious (-2) cost.
+71-85  | It’s a rough ride. All aboard must make the [Endure Harm](Endure%20Harm.md), [Endure Stress](Endure%20Stress.md), or [Companion Takes a Hit](Moves/Suffer/Companion_Takes_a_Hit) move, suffering a serious (-2) cost.
 86-95  | You’ve lost fuel, energy, or cargo. [Sacrifice Resources](Moves/Suffer/Sacrifice_Resources) (-2).
 96-100 | Against all odds, the vehicle holds together.
 
@@ -695,14 +695,14 @@ Make these **recover moves** when you attempt to rest, recover, or refit.
 
 **When you spend time recovering within a community**, roll +heart.
 
-On a **strong hit**, this is a safe refuge. You and your allies may each choose two recover moves: [Heal](Moves/Recover/Heal), [Hearten](Moves/Recover/Hearten), [Repair](Moves/Recover/Repair), or [Resupply](Moves/Recover/Resupply). Instead of rolling, assume an automatic strong hit for each. An individual move can be taken more than once.
+On a **strong hit**, this is a safe refuge. You and your allies may each choose two recover moves: [Heal](Heal.md), [Hearten](Moves/Recover/Hearten), [Repair](Moves/Recover/Repair), or [Resupply](Resupply.md). Instead of rolling, assume an automatic strong hit for each. An individual move can be taken more than once.
 
 On a **weak hit**, as above, but time is short or resources are strained. You and your allies each make one recover move instead of two, with no more than three moves total among the group.
 
 On a **miss**, choose one.
 
-  * The community needs your help, or makes a costly demand in exchange for safe harbor. Envision what they ask of you. If you do it, or [Swear an Iron Vow](Moves/Quest/Swear_an_Iron_Vow) to see it done, resolve this move as a strong hit.
-  * You find no relief, and the situation grows worse. [Pay the Price](Moves/Fate/Pay_the_Price).
+  * The community needs your help, or makes a costly demand in exchange for safe harbor. Envision what they ask of you. If you do it, or [Swear an Iron Vow](Swear%20an%20Iron%20Vow.md) to see it done, resolve this move as a strong hit.
+  * You find no relief, and the situation grows worse. [Pay the Price](Pay%20the%20Price.md).
 
 ### Heal
 
@@ -717,17 +717,17 @@ On a **strong hit**, the care is helpful. If you (or the ally under your care) a
 
 On a **weak hit**, as above, but the recovery costs extra time or resources. Choose one: [Lose Momentum](Moves/Suffer/Lose_Momentum) (-2) or [Sacrifice Resources](Moves/Suffer/Sacrifice_Resources) (-2).
 
-On a **miss**, the aid is ineffective and the situation worsens. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, the aid is ineffective and the situation worsens. [Pay the Price](Pay%20the%20Price.md).
 
 ### Hearten
 
 **When you socialize, share intimacy, or find a moment of peace**, roll +heart.
 
-On a **strong hit**, you find companionship or comfort and your spirit is strengthened. If you are shaken, clear the impact and take +1 spirit. Otherwise, take +2 spirit. If you make this move as you [Sojourn](Moves/Recover/Sojourn), take +1 more.
+On a **strong hit**, you find companionship or comfort and your spirit is strengthened. If you are shaken, clear the impact and take +1 spirit. Otherwise, take +2 spirit. If you make this move as you [Sojourn](Sojourn.md), take +1 more.
 
 On a **weak hit**, as above, but this indulgence is fleeting. Envision an interruption, complication, or inner conflict. Then, [Lose Momentum](Moves/Suffer/Lose_Momentum) (-1).
 
-On a **miss**, you take no comfort and the situation worsens. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you take no comfort and the situation worsens. [Pay the Price](Pay%20the%20Price.md).
 
 ### Resupply
 
@@ -745,7 +745,7 @@ On a **strong hit**, choose one.
 
 On a **weak hit**, as above, but you must first deal with a cost, complication, or demand. Envision the nature of this obstacle.
 
-On a **miss**, you encounter an unexpected peril. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you encounter an unexpected peril. [Pay the Price](Pay%20the%20Price.md).
 
 ### Repair
 
@@ -771,7 +771,7 @@ Spend repair points as follows. Unused points are discarded.
   * Repair any other device: 3 points
   * Repair any other device, but with a complication or malfunction: 2 points
 
-On a **miss**, the repairs are not made and the situation worsens. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, the repairs are not made and the situation worsens. [Pay the Price](Pay%20the%20Price.md).
 
 ## Threshold Moves
 
@@ -788,7 +788,7 @@ On a **strong hit**, you are cast back into the mortal world.
 On a **weak hit**, choose one.
 
   * You die, but not before making a noble sacrifice. Envision your final moments.
-  * There is more to be done. Envision what is revealed or asked of you at death's door, and [Swear an Iron Vow](Moves/Quest/Swear_an_Iron_Vow) to complete an extreme quest. You return to the mortal world and must mark **doomed**. When you complete the deathbound quest, clear the impact.
+  * There is more to be done. Envision what is revealed or asked of you at death's door, and [Swear an Iron Vow](Swear%20an%20Iron%20Vow.md) to complete an extreme quest. You return to the mortal world and must mark **doomed**. When you complete the deathbound quest, clear the impact.
 
 On a **miss**, you are dead.
 
@@ -801,7 +801,7 @@ On a **strong hit**, you resist and press on.
 On a **weak hit**, choose one.
 
   * Your spirit breaks, but not before you make a noble sacrifice. Envision your final moments.
-  * You see a vision of a dreaded event coming to pass. Envision that dark future, and [Swear an Iron Vow](Moves/Quest/Swear_an_Iron_Vow) to prevent it through an extreme quest. You return to your senses and must mark **tormented**. When you complete the soul-bound quest, clear the impact.
+  * You see a vision of a dreaded event coming to pass. Envision that dark future, and [Swear an Iron Vow](Swear%20an%20Iron%20Vow.md) to prevent it through an extreme quest. You return to your senses and must mark **tormented**. When you complete the soul-bound quest, clear the impact.
 
 On a **miss**, you succumb to despair or horror and are lost.
 
@@ -815,9 +815,9 @@ If you survive, you may use your connections to replace some of what was lost. T
 
 On a **strong hit**, you may call in a favor. This comes without conditions.
 
-On a **weak hit**, you owe someone. You must mark **indebted** and [Swear an Iron Vow](Moves/Quest/Swear_an_Iron_Vow) to complete an extreme quest in their service. When you complete the duty-bound quest, clear the impact.
+On a **weak hit**, you owe someone. You must mark **indebted** and [Swear an Iron Vow](Swear%20an%20Iron%20Vow.md) to complete an extreme quest in their service. When you complete the duty-bound quest, clear the impact.
 
-On a **miss**, as with the weak hit result, but this quest is against your nature, forces you to [Forsake Your Vow](Moves/Quest/Forsake_Your_Vow) on another quest, or is in the service of an enemy.
+On a **miss**, as with the weak hit result, but this quest is against your nature, forces you to [Forsake Your Vow](Forsake%20Your%20Vow.md) on another quest, or is in the service of an enemy.
 
 If you accept the cost, take 1 experience for every marked ability on the discarded assets (minimum 3 experience). Spend this experience only on a new command vehicle, modules, and support vehicles.
 
@@ -856,8 +856,8 @@ For each **strong hit**, choose one from below, or one from the weak hit or miss
 
 For each **weak hit**, choose one from below, or one from the miss options.
 
-  * See it through: Choose one of the former character's unfinished quests, and [Swear an Iron Vow](Moves/Quest/Swear_an_Iron_Vow) (with an automatic strong hit) to see it done. You may immediately mark up to half their earned progress (round down) on this quest.
-  * Rebuild a connection: Name one of the former character's connections, and envision how time or circumstances have changed them in a dramatic way. When you [Make a Connection](Moves/Connection/Make_a_Connection) with them, take an automatic strong hit and mark two ticks on your bonds legacy track.
+  * See it through: Choose one of the former character's unfinished quests, and [Swear an Iron Vow](Swear%20an%20Iron%20Vow.md) (with an automatic strong hit) to see it done. You may immediately mark up to half their earned progress (round down) on this quest.
+  * Rebuild a connection: Name one of the former character's connections, and envision how time or circumstances have changed them in a dramatic way. When you [Make a Connection](Make_a_Connection.md) with them, take an automatic strong hit and mark two ticks on your bonds legacy track.
   * Explore familiar ground: Name a location that was meaningful to the former character. When you first visit that place, envision how it has changed or is endangered. Then, mark two ticks on your discoveries legacy track.
 
 For each **miss**, choose one.
@@ -894,7 +894,7 @@ On a match, envision an extreme result or twist.
 **When you suffer the outcome of an action**, choose one.
 
   * Make the most obvious negative outcome happen.
-  * [Ask the Oracle](Moves/Fate/Ask_the_Oracle) for inspiration. Interpret the answer as a hardship or complication appropriate to the situation.
+  * [Ask the Oracle](Ask%20the%20Oracle.md) for inspiration. Interpret the answer as a hardship or complication appropriate to the situation.
   * Roll on the table below. If the result doesn’t fit the situation, roll again.
 
 Roll   | Result
@@ -952,7 +952,7 @@ On a **strong hit**, you are successful and mark progress. On a **strong hit wit
 
 On a **weak hit**, you are successful and mark progress, but also encounter a complication or setback. Envision what occurs and fill a clock segment.
 
-On a **miss**, you fail, or a momentary success is undermined by a dramatic turn of events. Fill a clock segment and [Pay the Price](Moves/Fate/Pay_the_Price). On a **miss with a match**, fill two segments and [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you fail, or a momentary success is undermined by a dramatic turn of events. Fill a clock segment and [Pay the Price](Pay%20the%20Price.md). On a **miss with a match**, fill two segments and [Pay the Price](Pay%20the%20Price.md).
 
 ### Secure an Advantage (Scene Challenge)
 
@@ -969,7 +969,7 @@ On a **strong hit**, take both. On a **strong hit with a match**, take both and 
   * Take +2 momentum
   * Add +1 on your next move (not a progress move)
 
-On a **miss**, you fail or your assumptions betray you. Fill a clock segment and [Pay the Price](Moves/Fate/Pay_the_Price). On a **miss with a match**, fill two segments and [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you fail or your assumptions betray you. Fill a clock segment and [Pay the Price](Pay%20the%20Price.md). On a **miss with a match**, fill two segments and [Pay the Price](Pay%20the%20Price.md).
 
 ### Finish the Scene
 
@@ -977,6 +977,6 @@ On a **miss**, you fail or your assumptions betray you. Fill a clock segment and
 
 On a **strong hit**, you achieve your objective unconditionally.
 
-On a **weak hit**, you succeed, but not without cost. You must [Pay the Price](Moves/Fate/Pay_the_Price). Make this a minor cost relative to the scope of the scene.
+On a **weak hit**, you succeed, but not without cost. You must [Pay the Price](Pay%20the%20Price.md). Make this a minor cost relative to the scope of the scene.
 
-On a **miss**, you fail or are undermined by a dire and costly turn of events. [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you fail or are undermined by a dire and costly turn of events. [Pay the Price](Pay%20the%20Price.md).

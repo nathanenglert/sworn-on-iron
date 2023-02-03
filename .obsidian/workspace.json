@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65ccc2b772b9930c",
+        "id": "f50c4bff5eeb0b0b",
         "type": "tabs",
         "children": [
           {
-            "id": "d1faec69c7078925",
+            "id": "10e320b4266eb0a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Truths_Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Action](",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Truths_Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Truths_Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Templates/Truths_Template.md"
               }
             }
           },
@@ -137,25 +137,35 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "d1faec69c7078925",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "10e320b4266eb0a9",
   "lastOpenFiles": [
-    "TO DO LIST.md",
+    "Templates/Progress_Template.md",
+    "Templates/Oracle_Template.md",
+    "Templates/Moves_Template.md",
+    "Templates/Clocks_Template.md",
+    "Templates/Character_Template.md",
+    "Templates/Asset_Template.md",
     "README.md",
-    "Journals/Journal 1.md",
-    "Progress/Vow1.md",
-    "Progress/Progress1.md",
-    "Progress/Combat1.md",
-    "Progress/Captain_Deadeye.md",
-    "Character/Character_Sheet.md",
-    "Character/Bonds.md",
-    "Character/Quests.md"
+    "Oracles/Characters/Characters_Family_Name.md",
+    "Oracles/Characters/Characters_Callsign.md",
+    "Oracles/Ask_the_Oracle/Ask_the_Oracle_Almost_Certain.md"
   ]
 }

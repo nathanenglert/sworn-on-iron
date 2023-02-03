@@ -1,9 +1,10 @@
-# Clash
+When **your foe has initiative and you fight with them in close quarters**, roll +iron. **When you exchange a volley at range**, or shoot at an advancing foe, roll +edge. 
 
-**When you are in a bad spot and fight back against a foe at close quarters**, roll +iron; **when you exchange fire at a distance**, roll +edge.
+On a **strong hit**, inflict your harm and choose one. You have the initiative. 
 
-On a **strong hit**, mark progress twice. You overwhelm your foe and are in control.
+- You bolster your position: Take +1 momentum. 
+- You find an opening: Inflict +1 harm. 
 
-On a **weak hit**, mark progress, but you are dealt a counterblow or setback. You stay in a bad spot and must [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **weak hit**, inflict your harm, but then [[Pay the Price]]. Your foe has initiative. 
 
-On a **miss**, your foe dominates this exchange. You stay in a bad spot and must [Pay the Price](Moves/Fate/Pay_the_Price).
+On a **miss**, you are outmatched and must [[Pay the Price]]. Your foe has initiative
