@@ -105,11 +105,9 @@ function calcXP(characterFile) {
     let characterPath = "Characters/" + characterFile;
     var bProg = getVar(characterPath, "Bonds_Progress");
     if (!bProg) { bProg = 0; }
-    var dProg = getVar(characterPath, "Journeys_Progress");
-    if (!dProg) { bProg = 0; }
     var qProg = getVar(characterPath, "Quests_Progress");
     if (!qProg) { bProg = 0; }
-    let Progs = [bProg, dProg, qProg];
+    let Progs = [bProg, qProg];
     alert(Progs);
     var xpEarned = 0;
     var i = 0;
@@ -154,7 +152,6 @@ var difficulty = "Epic";
 switch (givenTrack) {
     case "Quests":
     case "Bonds":
-    case "Journeys":
         if (!$3) {
             characterFile = getSoloCharacter();
         } else {
@@ -183,7 +180,7 @@ if (progToSet > progMax) {
 expand("notevars set " + trackTitle + " " + progVar + " " + progToSet);
 
 var xpEarned = 0;
-if (givenTrack == "Quests" || givenTrack == "Bonds" || givenTrack == "Journeys") {
+if (givenTrack == "Quests" || givenTrack == "Bonds") {
     if (progToSet > 40) {
         xpEarned = 20 + Math.floor((progToSet - 40)/4);
     } else {
@@ -209,7 +206,7 @@ let callout = "> [!progress]- " + name + ", Progress Set To: " + progToSet + " (
 return callout;
 ```
 __
-setprogress {either the filename that contains the progress track or use the one-word references of Bonds, Journeys, or Quests} {# of ticks from 0-40} {optional: Which character filename?} - For this to know which character stat to use, make sure to use the EXACT file name of the character in the Character folder which can include letters, numbers, and underscore. If left out, it defaults to the first file name in the Character folder.  This sets a progress track to the given number of TICKS.  Remember there are four ticks per box.
+setprogress {either the filename that contains the progress track or use the one-word references of Bonds or Quests} {# of ticks from 0-40} {optional: Which character filename?} - For this to know which character stat to use, make sure to use the EXACT file name of the character in the Character folder which can include letters, numbers, and underscore. If left out, it defaults to the first file name in the Character folder.  This sets a progress track to the given number of TICKS.  Remember there are four ticks per box.
 
 
 __
@@ -229,7 +226,6 @@ var difficulty = "Epic";
 switch (givenTrack) {
     case "Quests":
     case "Bonds":
-    case "Journeys":
         if (!$3) {
             characterFile = getSoloCharacter();
         } else {
@@ -261,7 +257,7 @@ if (currentProgress > progMax) {
 expand("notevars set " + trackTitle + " " + progVar + " " + currentProgress);
 
 var xpEarned = 0;
-if (givenTrack == "Quests" || givenTrack == "Bonds" || givenTrack == "Journeys") {
+if (givenTrack == "Quests" || givenTrack == "Bonds") {
     if (currentProgress > 40) {
         xpEarned = 20 + Math.floor((currentProgress - 40)/4);
     } else {
@@ -287,7 +283,7 @@ let callout = "> [!progress]- " + name + ", " + progressToMark + " Progess Marke
 return callout;
 ```
 __
-markprogress {either the filename that contains the progress track or use the one-word references of Bonds, Journeys, or Quests} {times to mark progress} {optional: Which character filename?} - For this to know which character stat to use, make sure to use the EXACT file name of the character in the Character folder which can include letters, numbers, and underscore. If left out, it defaults to the first file name in the Character folder.  The number of times to mark progress will typically be only 1 or 2 (unless a strong hit takes you to 3 or something).  You don't need to calculate the number of ticks to mark UNLESS you are marking on Bonds, Journeys, or Quests.  For example, on a Dangerous track if you want to mark progress once, just use the number 1.  It will calculate that one progress means 8 ticks (or two boxes) on its own.  However, on Bonds, if you wanted to mark 2 boxes, you would need to input 8 for the 8 tick marks necessary to get 2 boxes.
+markprogress {either the filename that contains the progress track or use the one-word references of Bonds or Quests} {times to mark progress} {optional: Which character filename?} - For this to know which character stat to use, make sure to use the EXACT file name of the character in the Character folder which can include letters, numbers, and underscore. If left out, it defaults to the first file name in the Character folder.  The number of times to mark progress will typically be only 1 or 2 (unless a strong hit takes you to 3 or something).  You don't need to calculate the number of ticks to mark UNLESS you are marking on Bonds or Quests.  For example, on a Dangerous track if you want to mark progress once, just use the number 1.  It will calculate that one progress means 8 ticks (or two boxes) on its own.  However, on Bonds, if you wanted to mark 2 boxes, you would need to input 8 for the 8 tick marks necessary to get 2 boxes.
 
 
 __
@@ -306,7 +302,6 @@ var characterName = "Character_Name_Here";
 switch (givenTrack) {
     case "Quests":
     case "Bonds":
-    case "Journeys":
         if (!$3) {
             characterFile = getSoloCharacter();
         } else {
@@ -334,7 +329,7 @@ if (currentProgress < 0) { currentProgress = 0; }
 expand("notevars set " + trackTitle + " " + progVar + " " + currentProgress);
 
 var xpEarned = 0;
-if (givenTrack == "Quests" || givenTrack == "Bonds" || givenTrack == "Journeys") {
+if (givenTrack == "Quests" || givenTrack == "Bonds") {
     if (currentProgress > 40) {
         xpEarned = 20 + Math.floor((currentProgress - 40)/4);
     } else {
@@ -361,7 +356,7 @@ let callout = "> [!progress]- " + name + ", " + ticksToClear + " Progess Ticks C
 return callout;
 ```
 __
-clearprogress {either the filename that contains the progress track or use the one-word references of Bonds, Journeys, or Quests} {TICKS to clear} {optional: Which character filename?} - For this to know which character stat to use, make sure to use the EXACT file name of the character in the Character folder which can include letters, numbers, and underscore. If left out, it defaults to the first file name in the Character folder.  THIS USES TICKS ONLY!  If the move says clear so many progress boxes, multiply the number of boxes by 4 to get the number of ticks to clear.  If the move says clear that many units of progress, you'll need to figure out how many ticks that is first.
+clearprogress {either the filename that contains the progress track or use the one-word references of Bonds or Quests} {TICKS to clear} {optional: Which character filename?} - For this to know which character stat to use, make sure to use the EXACT file name of the character in the Character folder which can include letters, numbers, and underscore. If left out, it defaults to the first file name in the Character folder.  THIS USES TICKS ONLY!  If the move says clear so many progress boxes, multiply the number of boxes by 4 to get the number of ticks to clear.  If the move says clear that many units of progress, you'll need to figure out how many ticks that is first.
 
 __
 ^resetlegacies ?([_a-zA-Z0-9]*)$
@@ -378,9 +373,6 @@ let trackImage = getTrackImage(0);
 expand("notevars set " + characterFile + " Bonds_Progress 0");
 expand("notevars set " + characterFile + " Bonds_TrackImage " + trackImage);
 expand("notevars set " + characterFile + " Bonds_XPEarned 0");
-expand("notevars set " + characterFile + " Journeys_Progress 0");
-expand("notevars set " + characterFile + " Journeys_TrackImage " + trackImage);
-expand("notevars set " + characterFile + " Journeys_XPEarned 0");
 expand("notevars set " + characterFile + " Quests_Progress 0");
 expand("notevars set " + characterFile + " Quests_TrackImage " + trackImage);
 expand("notevars set " + characterFile + " Quests_XPEarned 0");
@@ -405,7 +397,6 @@ var progVar = "Progress";
 switch (givenTrack) {
     case "Quests":
     case "Bonds":
-    case "Journeys":
         if (!$2) {
             characterFile = getSoloCharacter();
         } else {
@@ -457,7 +448,7 @@ callout = calloutTitle + actionResult + challengeResult + outcome + "\n\n";
 return callout;
 ```
 __
-endprogress {either the filename that contains the progress track or use the one-word references of Bonds, Journeys, or Quests} {optional: Which character filename?} - For this to know which character stat to use, make sure to use the EXACT file name of the character in the Character folder which can include letters, numbers, and underscore. If left out, it defaults to the first file name in the Character folder.  This will make a challenge roll versus the named progress track and then mark the progress track as complete.
+endprogress {either the filename that contains the progress track or use the one-word references of Bonds or Quests} {optional: Which character filename?} - For this to know which character stat to use, make sure to use the EXACT file name of the character in the Character folder which can include letters, numbers, and underscore. If left out, it defaults to the first file name in the Character folder.  This will make a challenge roll versus the named progress track and then mark the progress track as complete.
 
 __
 ^createprogress

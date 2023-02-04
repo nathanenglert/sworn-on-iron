@@ -6,6 +6,24 @@
     Purple: 139, 108, 239   #8B6CEF
 */
 
+@font-face {
+  font-family: "Bookinsanity";
+  src:
+    local("Bookinsanity Remake"),
+    local("Bookinsanity"),
+    url("./Support/fonts/Bookinsanity.otf"),
+    url("https://raw.githubusercontent.com/jonathonf/solbera-dnd-fonts/master/Bookinsanity/Bookinsanity.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Mr Eaves Small Caps";
+  src:
+    local("Mr Eaves Small Caps"),
+    url("./Support/fonts/Mr Eaves Small Caps.otf"),
+    url("https://raw.githubusercontent.com/jonathonf/solbera-dnd-fonts/master/Mr%20Eaves/Mr%20Eaves%20Small%20Caps.otf") format("opentype");
+  font-feature-settings: "smcp" on;
+}
+
 /* Color Code Needed for Oracle Callout to Work in Light/Dark Mode */
 .theme-light {
     --color-code: 0, 0, 0;
@@ -216,42 +234,38 @@
 }
 
 /* Setting Title and Header Fonts */
-.markdown-preview-view h1 {
-    font-family: "Xolonium";
-    text-transform: uppercase;
-    font-size: 1.8em;
-}
-
+.HyperMD-header-1,
+.markdown-preview-view h1,
 .cm-header-1 {
-    font-family: "Xolonium";
+    font-family: "Mr Eaves Small Caps";
     text-transform: uppercase;
     font-size: 1.8em;
 }
 
 .markdown-preview-view h2 {
-    font-family: "Xolonium";
+    font-family: "Mr Eaves Small Caps";
     text-transform: uppercase;
     font-size: 1.4em;
 }
 
 .cm-header-2 {
-    font-family: "Xolonium";
+    font-family: "Mr Eaves Small Caps";
     text-transform: uppercase;
     font-size: 1.4em;
 }
 
 .markdown-preview-view h3 {
-    font-family: "Xolonium";
+    font-family: "Mr Eaves Small Caps";
     font-size: 1.2em;
 }
 
 .cm-header-3 {
-    font-family: "Xolonium";
+    font-family: "Mr Eaves Small Caps";
     font-size: 1.2em;
 }
 
 .inline-title {
-    font-family: "Xolonium";
+    font-family: "Mr Eaves Small Caps";
     font-size: 0.8em;
     text-align: center;
 }

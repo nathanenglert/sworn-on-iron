@@ -86,28 +86,20 @@ function getAssetFM(asset) {
     asset = asset.replaceAll(/^\"|\"$/g, "");
 
     // Get the file object for the specified note.  Early if not available or is a folder
-    notePath = "Assets/Command_Vehicle/" + asset;
+    notePath = "Assets/Combat_Talent/" + asset;
     const file1 = app.vault.fileMap[notePath] || app.vault.fileMap[notePath + ".md"];
     if (!file1) {
         notePath = "Assets/Companion/" + asset;
         const file2 = app.vault.fileMap[notePath] || app.vault.fileMap[notePath + ".md"];
         if (!file2) {
-            notePath = "Assets/Deed/" + asset;
+            notePath = "Assets/Path/" + asset;
             const file3 = app.vault.fileMap[notePath] || app.vault.fileMap[notePath + ".md"];
             if (!file3) {
-                notePath = "Assets/Module/" + asset;
+                notePath = "Assets/Ritual/" + asset;
                 const file4 = app.vault.fileMap[notePath] || app.vault.fileMap[notePath + ".md"];
-                    if (!file4) {
-                        notePath = "Assets/Path/" + asset;
-                        const file5 = app.vault.fileMap[notePath] || app.vault.fileMap[notePath + ".md"];
-                        if (!file5) {
-                            notePath = "Assets/Support_Vehicle/" + asset;
-                            const file6 = app.vault.fileMap[notePath] || app.vault.fileMap[notePath + ".md"];
-                            if (!file6) {
-                                notePath = "No path";
-                            }
-                        }
-                    }
+				if (!file4) {
+					notePath = "No path";
+				}
             }
         }
     }

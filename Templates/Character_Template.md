@@ -21,9 +21,6 @@ XPSpent: 0
 Bonds_Progress: 0
 Bonds_TrackImage: "[[progress-track-0.svg]]"
 Bonds_XPEarned: 0
-Journeys_Progress: 0
-Journeys_TrackImage: "[[progress-track-0.svg]]"
-Journeys_XPEarned: 0
 Quests_Progress: 0
 Quests_TrackImage: "[[progress-track-0.svg]]"
 Quests_XPEarned: 0
@@ -52,15 +49,10 @@ Maybe image here
 ## Legacies
 | XP Earned | XP Spent |
 | --- | --- |
-| `=this.Bonds_XPEarned+this.Discoveries_XPEarned+this.Quests_XPEarned` | `=this.XPSpent` |
+| `=this.Bonds_XPEarned+this.Quests_XPEarned` | `=this.XPSpent` |
 ### Bonds (Rolled Over? `=choice(this.Bonds_Progress > 40, "Yes", "No")`)
 ```dataview
 LIST without id embed(link(meta(Bonds_TrackImage).path, "350"))
-WHERE contains(file.path, this.file.path)
-```
-### Journeys (Rolled Over? `=choice(this.Discoveries_Progress > 40, "Yes", "No")`)
-```dataview
-LIST without id embed(link(meta(Journeys_TrackImage).path, "350"))
 WHERE contains(file.path, this.file.path)
 ```
 ### Quests (Rolled Over? `=choice(this.Quests_Progress > 40, "Yes", "No")`)

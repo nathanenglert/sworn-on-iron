@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71d47c493840b43e",
+        "id": "170a025cb986d6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "dd595ae326ee0df3",
+            "id": "a4139174d1f91bfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support/inlineScripts/ironsworn_moves.sfile.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support/inlineScripts/ironsworn_moves.sfile.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support/inlineScripts/ironsworn_moves.sfile.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support/inlineScripts/ironsworn_moves.sfile.md"
+                "file": "README.md"
               }
             }
           },
@@ -155,17 +155,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd595ae326ee0df3",
+  "active": "a4139174d1f91bfc",
   "lastOpenFiles": [
-    "Support/inlineScripts/ironsworn_oracles.sfile.md",
-    "Moves/Suffer/Out_of_Supply.md",
-    "Moves/Suffer/Face_Desolation.md",
-    "Moves/Suffer/Face_Death.md",
-    "Moves/Suffer/Endure_Stress.md",
-    "Moves/Suffer/Face_a_Setback.md",
-    "Moves/Suffer/Endure_Harm.md",
-    "Moves/Suffer/Companion_Endure_Harm.md",
-    "Moves/Relationship/Write_Your_Epilogue.md",
-    "Moves/Relationship/Test_Your_Bond.md"
+    "Characters/Malik.md",
+    "Support/inlineScripts/ironsworn_stats.sfile.md",
+    "Support/inlineScripts/ironsworn_moves.sfile.md",
+    "Support/inlineScripts/ironsworn_progress.sfile.md",
+    "Templates/Character_Template.md",
+    "Assets/Companion/Companion_Young_Wyvern.md",
+    "Assets/Combat_talent/Combat_talent_Archer.md",
+    "Assets/Companion/Companion_Giant_Spider.md",
+    "Assets/Companion/Companion_Mammoth.md",
+    "Assets/Companion/Companion_Hawk.md"
   ]
 }

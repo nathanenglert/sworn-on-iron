@@ -1,29 +1,8 @@
 # Readme
-Welcome to my Starforged Starter Vault!  I set this up to play Starforged in a way that fits me best.
+Welcome to my Ironsworn Starter Vault!  I set this up to play Ironsworn in a way that fits me best.
 
 ## Change Log
-I did a terrible job keeping track earlier, here are the files that you should change to get everything working to v1.5 and beyond.
-
-### v1.5.1
-* Updated <font color="red">README.md</font>
-* Updated <font color="red">starforged_progress.sfile.md</font> in the Support/inlineScripts folder
-- Updated <font color="red">snippets.css</font> in the .obsidian/snippets folder to get the icon for the new Clocks folder
-- Added the new <font color="red">Clocks folder</font> with Clocks1.md inside as a demo
-- Added <font color="red">Clocks_Template</font> to the Templates folder
-- Updated the <font color="red">data.json</font> file in .obsidian/plugins/templater-obsidian folder to account for the new Clocks_Template file
-- Added the <font color="red">ProgressClocks folder</font> to the Images/Shortcut_Images folder which has all the progress clock SVG files
-
-### v1.5
-- Updated README.md
-- Updated starforged_moves.sfile.md, starforged_stats.sfile.md, starforged_progress.sfile.md in the Support/inlineScripts folder
-- Updated snippets.css in the .obsidian/snippets folder
-- Added Character_Template and Mech_Template files in the Templates folder
-- Optional: Updated data.json in the .obsidian/plugins/templater-obsidian folder to account for the new Character_Template file
-- Removed Vault_Info file from Support folder
-- Renamed Character folder to Characters
-- Removed Bonds, Discoveries, Quests, Stats, Meters, Conditions, and Character_Sheet from the Character folder
-- All player characters now have a single file for their character sheet and stats which should be created using the Character_Template
-
+-
 
 ## Fonts
 For the headings, I'm using [Xolonium font](https://www.fontspace.com/xolonium-font-f17644) and [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans) as the interface font.
