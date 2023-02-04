@@ -1,11 +1,8 @@
-# Readme
-Welcome to my Ironsworn Starter Vault!  I set this up to play Ironsworn in a way that fits me best.
+# Sworn in Iron
+Welcome to my Ironsworn Starter Vault! This vault was based off of the excellent [Starforged Starter Vault by @ericbright2002](https://github.com/ericbright2002/Forged_in_Obsidian).
 
 ## Change Log
 -
-
-## Fonts
-For the headings, I'm using [Xolonium font](https://www.fontspace.com/xolonium-font-f17644) and [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans) as the interface font.
 
 ## Plugins
 This vault only works with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview), [Templater](https://github.com/SilentVoid13/Templater), and most importantly: [Inline Scripts](https://github.com/jon-heard/obsidian-inline-scripts) plugins.
