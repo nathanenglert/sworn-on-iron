@@ -1,2 +1,3 @@
 # track these files, if they exist
 !.obsidian/
+.obsidian/workspace.json
