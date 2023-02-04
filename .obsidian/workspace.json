@@ -11,8 +11,12 @@
             "id": "a4139174d1f91bfc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Journal 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journals/Journal 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journals/Journal 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journals/Journal 1.md"
+              }
             }
           },
           {
@@ -149,7 +157,6 @@
   },
   "active": "a4139174d1f91bfc",
   "lastOpenFiles": [
-    "Journals/Journal 1.md",
     "Support/inlineScripts/ironsworn_moves.sfile.md",
     "Journals/Day_3.md",
     "Journals/Beginning.md",

@@ -291,6 +291,61 @@ __
 move {move initials} {stat} {add value} {optional: Which character filename?} - For this to know which character stat to use, make sure to use the EXACT file name of the character in the Character folder which can include letters, numbers, and underscore. If left out, it defaults to the first file name in the Character folder.  Then this shortcut will make a challenge roll using the provided stat and add amount on the move provided.  IMPORTANT: Single word moves use the full word rather than the initials. i.e. Use "Battle" instead of just "B".   
 
 __
+^moved ([a-zA-Z]*) ([a-zA-Z]*) ([0-9]*) ([0-9]*) ([0-9]*) ?([_a-zA-Z0-9]*)$
+__
+```js
+var characterFile = "Character_File_Name_Here";
+let moveName = expand("getmovename " + $1);
+let statName = $2.charAt(0).toUpperCase() + $2.slice(1).toLowerCase();
+let d10A = Number($3);
+let d10B = Number($4);
+let d6 = Number($5);
+if (!$6) {
+	characterFile = getSoloCharacter();
+} else {
+    characterFile = $6;
+}
+
+let statValue = getVar("Characters/" + characterFile, statName);
+var actionRoll = d6 + Number(statValue);
+if (actionRoll > 10) {actionRoll = 10;}
+var result = "";
+var image = "";
+let calloutType = "> [!challenge-miss]+";
+if (actionRoll > d10A && actionRoll > d10B) {
+    result = "Strong Hit";
+    calloutType = "> [!challenge-strong]-";
+    image = "![[outcome-strong-hit.svg|50]]";
+    if (d10A == d10B) {
+        result = result + " with a MATCH!";
+    }
+} else if (actionRoll > d10A || actionRoll > d10B) {
+    result = "Weak Hit";
+    calloutType = "> [!challenge-weak]-";
+    image = "![[outcome-weak-hit.svg|50]]";
+    if (d10A == d10B) {
+        result = result + " with a MATCH!";
+    }
+} else {
+    result = "Miss";
+    calloutType = "> [!challenge-miss]-";
+    image = "![[outcome-miss.svg|50]]";
+    if (d10A == d10B) {
+        result = result + " with a MATCH!";
+    }
+}
+let characterName = getVar("Characters/" + characterFile, "Name");
+let calloutTitle = calloutType + " " + characterName + " " + moveName + ": " + statName;
+let actionResult = "\n> ![[d6-" + d6 + "-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-" + statValue + "-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-" + actionRoll + "-t.svg#invert_W|50]]";
+let challengeResult = "\n> ![[vs-t.svg#invert_W|50]]![[d10-" + d10A + "-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-" + d10B + "-t.svg#invert_W|50]]";
+let outcome = "\n> ### Result: " + image + " " + result;
+resultCallout = calloutTitle + actionResult + challengeResult + outcome + "\n\n";
+return resultCallout;
+```
+__
+moved {move initials} {stat} {d10A} {d10B} {d6} {optional: Which character filename?} - For this to know which character stat to use, make sure to use the EXACT file name of the character in the Character folder which can include letters, numbers, and underscore. If left out, it defaults to the first file name in the Character folder.    
+
+__
 ^moveref ([a-zA-Z]*)$
 __
 ```js
