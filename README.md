@@ -1,4 +1,4 @@
-# Sworn in Iron
+# Sworn on Iron
 Welcome to my Ironsworn Starter Vault! This vault was based off of the excellent [Starforged Starter Vault by @ericbright2002](https://github.com/ericbright2002/Forged_in_Obsidian).
 
 ## Change Log
