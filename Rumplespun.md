@@ -1,0 +1,1 @@
+A plant that grows in the Veiled Mountains. It has a distinctive, spiky leaf with a fuzzy, almost velvety texture. Its juice has medicinal properties and is thought to have the ability to slow down infections and reduce inflammation.
