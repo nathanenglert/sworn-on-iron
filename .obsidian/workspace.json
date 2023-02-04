@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4139174d1f91bfc",
+            "id": "2fffd3a3bdca7cb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Journal 1.md",
+                "file": "Journals/Day_10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04216346a724261f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Day_11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccc2460e542782a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Day_12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc00e7ed05902224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Support/inlineScripts/ironsworn_moves.sfile.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/Journal 1.md",
+                "file": "Journals/Day_12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/Journal 1.md",
+                "file": "Journals/Day_12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/Journal 1.md"
+                "file": "Journals/Day_12.md"
               }
             }
           },
@@ -155,16 +192,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4139174d1f91bfc",
+  "active": "ccc2460e542782a8",
   "lastOpenFiles": [
-    "Support/inlineScripts/ironsworn_moves.sfile.md",
-    "Journals/Day_3.md",
-    "Journals/Beginning.md",
-    "Rumplespun.md",
-    "NPCs/Torren.md",
-    "Locations/Location 1.md",
+    "Journals/Day_11.md",
+    "Journals/Day_10.md",
+    "Kheldregosa.md",
+    "Locations/Withered Grove.md",
     "Locations/Tempest Mountains.md",
     "Locations/Ironlands.md",
-    "NPCs/The Figure.md"
+    "Locations/Thornford.md",
+    "Support/inlineScripts/ironsworn_moves.sfile.md",
+    "ironsworn/regions/hinterlands.md",
+    "Journals/Day_9.md"
   ]
 }

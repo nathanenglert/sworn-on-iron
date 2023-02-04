@@ -16,10 +16,10 @@ Encumbered: ⬡
 Maimed: ⬡
 Corrupted: ⬡
 Cursed: ⬡
-Tormented: ⬡
+Tormented: ⬢
 XPSpent: 0
-Bonds_Progress: 0
-Bonds_TrackImage: "[[progress-track-0.svg]]"
+Bonds_Progress: 2
+Bonds_TrackImage: "[[progress-track-2.svg]]"
 Bonds_XPEarned: 0
 Quests_Progress: 0
 Quests_TrackImage: "[[progress-track-0.svg]]"
