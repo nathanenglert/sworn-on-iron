@@ -11,12 +11,8 @@
             "id": "a4139174d1f91bfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,17 +147,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4139174d1f91bfc",
+  "active": "02daf7eebe9d2b7a",
   "lastOpenFiles": [
+    "NPCs/Kai.md",
     "Characters/Malik.md",
+    "Locations/Location 1.md",
+    "Journals/Beginning.md",
+    "NPCs/NPC 1.md",
+    "README.md",
     "Support/inlineScripts/ironsworn_stats.sfile.md",
     "Support/inlineScripts/ironsworn_moves.sfile.md",
     "Support/inlineScripts/ironsworn_progress.sfile.md",
-    "Templates/Character_Template.md",
-    "Assets/Companion/Companion_Young_Wyvern.md",
-    "Assets/Combat_talent/Combat_talent_Archer.md",
-    "Assets/Companion/Companion_Giant_Spider.md",
-    "Assets/Companion/Companion_Mammoth.md",
-    "Assets/Companion/Companion_Hawk.md"
+    "Templates/Character_Template.md"
   ]
 }
