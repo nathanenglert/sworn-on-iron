@@ -192,7 +192,7 @@ __
 at {question you need action/theme for} - Use this function to ask a question seeking more details with the Action/Theme oracles.
 
 __
-^waypoint (.+)$
+^waypoint
 __
 ```js
 let descriptor = expand("tbl roll Oracles/Feature/Feature_Aspect.md");
@@ -205,7 +205,7 @@ __
 waypoint - Use this function to describe a waypoint that you found.
 
 __
-^monstrosity ?([a-zA-Z]*)$
+^monstrosity
 __
 ```js
 let form = "Form: " + expand("getOracle Oracles/Monstrosity/Monstrosity_Primary_Form.md");
