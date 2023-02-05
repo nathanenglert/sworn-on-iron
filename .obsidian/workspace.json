@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "170a025cb986d6ec",
+        "id": "7b4f26c03025debc",
         "type": "tabs",
+        "dimension": 73.56965174129353,
         "children": [
           {
-            "id": "79ba01b2122e533a",
+            "id": "23777740d832839c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Journals/Day_16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "05d1a7a3eeb55959",
+        "type": "tabs",
+        "dimension": 26.430348258706466,
+        "children": [
+          {
+            "id": "64f9f89f99897f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Malik.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "8e8501a4e4730d74",
@@ -155,17 +176,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79ba01b2122e533a",
+  "active": "23777740d832839c",
   "lastOpenFiles": [
-    "Support/inlineScripts/ironsworn_oracles.sfile.md",
+    "Characters/Malik.md",
     "Journals/Day_16.md",
-    "Items/Fateweaver.md",
-    "NPCs/Kione.md",
-    "Journals/Day_10.md",
-    "Journals/Day_9.md",
-    "Journals/Day_5.md",
-    "NPCs/Kheldregosa.md",
-    "Journals/Day_12.md",
-    "Characters/Malik.md"
+    "Haunted Watchtower.md",
+    "Support/inlineScripts/ironsworn_oracles.sfile.md",
+    "Progress/Combat_1.md",
+    "Progress/Journey_1.md",
+    "Oracles/Moves/Moves_Find_an_Opportunity.md",
+    "Oracles/Moves/Moves_Endure_Stress.md",
+    "Oracles/Moves/Moves_Endure_Harm.md",
+    "Oracles/Place/Place_Region.md"
   ]
 }

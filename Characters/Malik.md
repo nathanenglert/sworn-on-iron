@@ -5,10 +5,10 @@ Heart: 2
 Iron: 3
 Shadow: 1
 Wits: 2
-Health: 2
-Spirit: 4
+Health: 3
+Spirit: 2
 Supply: 3
-Momentum: 8
+Momentum: 7
 Wounded: ⬡
 Shaken: ⬡
 Unprepared: ⬡
