@@ -7,14 +7,14 @@ Shadow: 1
 Wits: 2
 Health: 2
 Spirit: 4
-Supply: 4
+Supply: 3
 Momentum: 8
 Wounded: ⬡
 Shaken: ⬡
 Unprepared: ⬡
 Encumbered: ⬡
 Maimed: ⬡
-Corrupted: ⬡
+Corrupted: ⬢
 Cursed: ⬡
 Tormented: ⬢
 XPSpent: 0
