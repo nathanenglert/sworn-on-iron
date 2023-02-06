@@ -1,9 +1,9 @@
 ---
-Name: Journey to the Hinterlands
-Difficulty: Formidable
-Progress: 20
-tags: incomplete
-TrackImage: "[[progress-track-20.svg]]"
+Name: (Encounter) Bonewalker at the Decaying Grave
+Difficulty: Dangerous
+Progress: 24
+tags: complete
+TrackImage: "[[progress-track-24.svg]]"
 ---
 
 # `=this.Name`

@@ -78,7 +78,7 @@ I find some bandages and manage to wrap my arm and chest. I need to rest, but I 
 > ![[vs-t.svg#invert_W|50]]![[d10-1-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-9-t.svg#invert_W|50]]
 > ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
 
-While the area seems safe, I notice [[Strange Markings|strange markings]] on the floor of the house. *I've seen these before...*
+While the area seems safe, I notice [[the strange markings|strange markings]] on the floor of the house. *I've seen these before...*
 
 "These are the same symbols from that night... I swear it."
 
@@ -87,4 +87,4 @@ While the area seems safe, I notice [[Strange Markings|strange markings]] on the
 > ![[vs-t.svg#invert_W|50]]![[d10-1-t.svg#invert_W|50]]![[and-t.svg#invert_W|50]]![[d10-9-t.svg#invert_W|50]]
 > ### Result: ![[outcome-weak-hit.svg|50]] Weak Hit
 
-Besides the [[Bonewalker]] and the [[Strange Markings|strange markings]], I don't find anything else. The [[Bonewalker]] came from the west. I decide to mark down the symbols on a piece of parchment for later. I must find [[Torren]]'s family first.
+Besides the [[Bonewalker]] and the [[the strange markings|strange markings]], I don't find anything else. The [[Bonewalker]] came from the west. I decide to mark down the symbols on a piece of parchment for later. I must find [[Torren]]'s family first.

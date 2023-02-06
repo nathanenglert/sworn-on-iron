@@ -137,7 +137,7 @@ The attack hits while the [[Haunt]] is distracted. While I have the advantage, I
 
 The blow connects and the [[Haunt]] is sent back to whatever [[Hell]] it came from.
 
-After that exchange, I fall to my knees. I am both mentally and physically exhausted and need a moment to rest. [[Kheldregosa]] and I leave the [[Haunted Watchtower|haunted watchtower]] and make camp nearby in the woods.
+After that exchange, I fall to my knees. I am both mentally and physically exhausted and need a moment to rest. [[Kheldregosa]] and I leave the [[a haunted watchtower|haunted watchtower]] and make camp nearby in the woods.
 
 > [!challenge-weak]- Malik Make Camp: Supply + 0
 > ![[d6-2-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[stat-3-t.svg#invert_W|50]]![[plus-t.svg#invert_W|15]]![[add-0-t.svg#invert_W|50]]![[equals-t.svg#invert_W|15]]![[total-5-t.svg#invert_W|50]]

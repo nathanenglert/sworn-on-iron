@@ -1,0 +1,1 @@
+A hunter in the Hinterlands. He burned [[Deshi]]'s farm when he found out that Deshi was sleeping with his wife.

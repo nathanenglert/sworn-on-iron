@@ -24,7 +24,7 @@ The sun was setting as I set out on my quest, my pack slung over my shoulder and
 
 I set up camp at the base of the mountain, the darkness of night settling around us. I vowed to myself that, come morning, I would find them.
 
-The night sky was dark and moonless, yet in the distance I could make out a faint orange glow. I knew instantly that it was the homestead of the man who had come to the tavern. As I drew closer, I saw that the orange glow originated from a fire that was blazing in the center of the homestead. Through the flames, I saw a figure, dark and menacing, standing over the man and his family. [[The Figure|The figure]] was shrouded in a tattered cloak and had eyes that glowed red with hatred. The figure raised its hand and a wave of energy pulsed through the air, sending my body into a fit of convulsions. I woke up moments later, drenched in sweat, my heart pounding in my chest. 
+The night sky was dark and moonless, yet in the distance I could make out a faint orange glow. I knew instantly that it was the homestead of the man who had come to the tavern. As I drew closer, I saw that the orange glow originated from a fire that was blazing in the center of the homestead. Through the flames, I saw a figure, dark and menacing, standing over the man and his family. [[a figure shrouded in a tattered cloak|The figure]] was shrouded in a tattered cloak and had eyes that glowed red with hatred. The figure raised its hand and a wave of energy pulsed through the air, sending my body into a fit of convulsions. I woke up moments later, drenched in sweat, my heart pounding in my chest. 
 
 *Those same red eyes*, I thought to myself as I shuddered the thought away.
 
