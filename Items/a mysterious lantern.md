@@ -1,0 +1,1 @@
+A lamp whose color changes subtley with the holders mood.

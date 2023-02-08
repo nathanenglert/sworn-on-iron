@@ -13,12 +13,12 @@
             "dimension": 74.58048477315103,
             "children": [
               {
-                "id": "55f0938490bbb91a",
+                "id": "45086be1a5dd200d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Journals/Day_19.md",
+                    "file": "Journals/Day_20.md",
                     "mode": "source",
                     "source": false
                   }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/Day_19.md",
+                "file": "Journals/Day_20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/Day_19.md",
+                "file": "Journals/Day_20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/Day_19.md"
+                "file": "Journals/Day_20.md"
               }
             }
           },
@@ -229,17 +229,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55f0938490bbb91a",
+  "active": "45086be1a5dd200d",
   "lastOpenFiles": [
+    "NPCs/Kimura.md",
+    "Journals/Day_20.md",
+    "Items/a mysterious lantern.md",
+    "Support/inlineScripts/ironsworn_moves.sfile.md",
     "Characters/Malik.md",
-    "Journals/Day_16.md",
-    "Journals/Day_19.md",
-    "NPCs/Tessa.md",
-    "Oracles/A Trove of Tables.md",
+    "Journals/Day_4.md",
+    "Progress/Combat_3.md",
+    "Progress/null.md",
     "Progress/Combat_2.md",
-    "Progress/Combat_1.md",
-    "Journals/Day_18.md",
-    "Items/a staff that crackled with an unknown power.md",
-    "Locations/an ancient castle.md"
+    "Oracles/A Trove of Tables.md"
   ]
 }

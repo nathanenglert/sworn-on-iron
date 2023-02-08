@@ -1,8 +1,8 @@
 ---
-Name: Journey to the Hinterlands
+Name: (Encounter) Troll in a Hidden Lair
 Difficulty: Formidable
 Progress: 28
-tags: incomplete
+tags: complete
 TrackImage: "[[progress-track-28.svg]]"
 ---
 
